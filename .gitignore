@@ -1,0 +1,11 @@
+.env
+docker-compose.debug.yml
+docker-compose.yml
+node_modules/
+yarn.lock
+package.json
+Dockerfile
+images/
+.vscode/
+.ssh/
+.devcontainer/
