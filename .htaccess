@@ -1,0 +1,5 @@
+
+RewriteOptions inherit
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-£
+  RewriteRule ^([^\.]+)$ $1.php [NC,L]
